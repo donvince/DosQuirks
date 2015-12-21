@@ -30,7 +30,7 @@ rem https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en
 
 rem Solution
 rem --------
-rem To get around this, you can surround the command in a code block 
+rem To get around this, you can surround the command in a (code block)
 (echo ReturnCode=0)>>result.txt
 
 rem lets see our working:
